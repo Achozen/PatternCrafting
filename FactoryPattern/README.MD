@@ -1,0 +1,1 @@
+To observe the robot fight you need to run DemoRobots.java file
