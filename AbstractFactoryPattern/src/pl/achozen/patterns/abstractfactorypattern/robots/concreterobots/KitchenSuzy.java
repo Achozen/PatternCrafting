@@ -7,7 +7,7 @@ public class KitchenSuzy implements KitchenRobots {
     @Override
     public void work() {
 	// TODO Auto-generated method stub
-	System.out.print("Kitchen Suzy is working");
+	System.out.print("Kitchen Suzy is working\n");
     }
 
 }

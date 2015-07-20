@@ -8,7 +8,7 @@ public class KitchenJack implements KitchenRobots {
     public void work() {
 	// TODO Auto-generated method stub
 
-	System.out.print("Kitchen Jack is working");
+	System.out.print("Kitchen Jack is working\n");
     }
 
 }

@@ -7,7 +7,7 @@ public class FightingWally implements FightingRobots {
     @Override
     public void fight() {
 	// TODO Auto-generated method stub
-	System.out.print("Fighting Wally is working");
+	System.out.print("Fighting Wally is fighting\n");
 
     }
 
